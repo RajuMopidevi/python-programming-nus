@@ -1,0 +1,5 @@
+Hello! Welcome to "Python Programming".
+A text written for beginners to Python.
+It covers many ESSENTIAL 1==ics in Python.
+It is a good text to get you started in Python Programming.
+Enjoy!
